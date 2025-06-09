@@ -25,10 +25,10 @@ O objetivo da aplicação é permitir que os membros da comunidade universitári
 13) `Sincronização:` funcionalidade básica.
 
 ### Fora de escopo
-14) Uso de tags (possível pois busca já está funcional);
-15) Dashboard local;
-16) Sistema de login;
-17) Interface gráfica.
+14) `Uso de tags:` possível pois busca já está funcional;
+15) `Dashboard local`;
+16) `Sistema de login`;
+17) `Interface gráfica`.
 
 ## Ferramentas utilizadas
 - Sistema operacional Linux.
